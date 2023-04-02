@@ -1,0 +1,3 @@
+name = panda.DataFrame(list,dict anything which we want to impement)
+	Here DataFrame is used to implement data in excel form
+Continue 16:28
